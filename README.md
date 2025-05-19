@@ -1,16 +1,19 @@
-## Hi there 👋
+## Weilai Xiang 👋
 
-<!--
-**FutureXiang/FutureXiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Student @ Beihang University, Beijing, China
 
-Here are some ideas to get you started:
+### Research Interests
+- Visual Generative Models
+- Self-supervised Representation Learning
+- Unified Generation-and-Discrimination/Understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Publications
+- DDAE++: Enhancing Diffusion Models Towards Unified Generative and Discriminative Learning, arXiv 2025. [[arXiv]](https://arxiv.org/abs/2505.10999)
+- Denoising Diffusion Autoencoders are Unified Self-supervised Learners, ICCV 2023. [[arXiv]](https://arxiv.org/abs/2303.09769) [[code]](https://github.com/FutureXiang/ddae) \
+(🔥 _**Oral**, also cited by Kaiming He's [l-DAE](https://arxiv.org/abs/2401.14404) and Saining Xie's [REPA](https://arxiv.org/abs/2410.06940)_ 🔥)
+- AlignedReID: Surpassing Human-Level Performance in Person Re-Identification, arXiv 2017. [[arXiv]](https://arxiv.org/abs/1711.08184) \
+(⭐ _A well-known and previous state-of-the-art method in Person ReID_ ⭐)
+
+### Academic Service
+- Conference reviewer @ ICCV 2025, ACMMM 2025, ICML 2025, CVPR 2025, NeurIPS 2024, ACMMM 2024, CVPR 2024, ACMMM 2023
+- Oral presentation @ ICCV 2023
