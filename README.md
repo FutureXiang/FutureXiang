@@ -16,4 +16,6 @@ Ph.D. Student @ Beihang University, Beijing, China
 
 ### Academic Service
 - Conference reviewer @ ICCV 2025, ACMMM 2025, ICML 2025, CVPR 2025, NeurIPS 2024, ACMMM 2024, CVPR 2024, ACMMM 2023
+- Outstanding reviewer for CVPR 2025
 - Oral presentation @ ICCV 2023
+- A talk on "Modern Deep Generative Models" @ Pattern Recognition course, Graduates, BUAA-SCSE, Spring Semester 2025
